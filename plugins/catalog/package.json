@@ -51,7 +51,7 @@
     "swr": "^0.3.0"
   },
   "devDependencies": {
-    "@backstage/cli": "^0.4.6",
+    "@backstage/cli": "^0.4.7",
     "@backstage/dev-utils": "^0.1.7",
     "@backstage/test-utils": "^0.1.6",
     "@microsoft/microsoft-graph-types": "^1.25.0",

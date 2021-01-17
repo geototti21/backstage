@@ -1,5 +1,11 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.2.5
+
+### Patch Changes
+
+- d54857099: Support HTTP 400 Bad Request from Kubernetes API
+
 ## 0.2.4
 
 ### Patch Changes

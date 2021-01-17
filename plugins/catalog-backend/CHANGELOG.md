@@ -1,5 +1,13 @@
 # @backstage/plugin-catalog-backend
 
+## 0.5.4
+
+### Patch Changes
+
+- ac7be581a: Refuse to remove the bootstrap location
+- ad838c02f: Reduce log noise on locations refresh
+- f9ba00a1c: Update the @azure/msal-node dependency to 1.0.0-beta.3.
+
 ## 0.5.3
 
 ### Patch Changes
